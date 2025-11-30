@@ -4,7 +4,7 @@
 
 Security Engineering 🏗️ (code)
 
-1. File integrity checker (detect modified files via hashes)
+1. File integrity checker (detect modified files via hashes) ✅
 2. Secure password generator with strength meter
 3. Log redaction tool to remove secrets/PII
 4. Basic encrypted notes vault (AES + passphrase)
